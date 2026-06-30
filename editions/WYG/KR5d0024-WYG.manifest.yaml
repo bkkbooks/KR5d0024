@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR5d0024/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR5d0024/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周易參同契釋疑
+  date: '2015-08-29 00:59:35.281202'
+  source:
+    repository: kanripo
+    path: KR5d0024
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: WYG
+    label: 【四部全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0024_000-WYG.yaml, hash: 'sha256:01b8f345e92b358161d7b810d1effc1ef856a8c25bbe71e98edcc78b9e6c09c0'}
+  - {seq: 1, filename: KR5d0024_001-WYG.yaml, hash: 'sha256:2f59c762fa041f4decf57dd929d122939d8da5cddbb705265fdc658a8318b410'}
+  - {seq: 2, filename: KR5d0024_002-WYG.yaml, hash: 'sha256:4f3d4a5dc6661ab5cbc22bba7accf2f868f19bff1a78fcedca3f2695297d5915'}
+  - {seq: 3, filename: KR5d0024_003-WYG.yaml, hash: 'sha256:d97edc98f3a130d4a43e047fae0a0b8d400e0a2379226e44c2950de41a83706c'}
+  - {seq: 4, filename: KR5d0024_004-WYG.yaml, hash: 'sha256:88d8cc77462a1cf73946b1c273d65c62579f67fee465f27c676811306858f566'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0024_000-WYG.markers.yaml, hash: 'sha256:0522e5bb0ba7c2acec2bd26d332e4421f14697c4ac203a33700373f2a6337ca4'}
+  - {seq: 1, role: markers, filename: assets/KR5d0024_001-WYG.markers.yaml, hash: 'sha256:db9c602c9028e4b458519e4b6dd8b4523994692585cd69444dbb79d5cf105dac'}
+  - {seq: 2, role: markers, filename: assets/KR5d0024_002-WYG.markers.yaml, hash: 'sha256:ed7c6b1f7ef8d88c78361e55752b1269563c446c73e69c5347f20f8232c76eb3'}
+  - {seq: 3, role: markers, filename: assets/KR5d0024_003-WYG.markers.yaml, hash: 'sha256:b39527b01e3622fade607f72e25a71070dd4f685e1eed7d0392970e37b477265'}
+  - {seq: 4, role: markers, filename: assets/KR5d0024_004-WYG.markers.yaml, hash: 'sha256:e7e42750cc2103ad19ce92c9d88de98cdbbdc345890ef1c5a3602f0876f55872'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0024_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1341
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5d0024_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 20252
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5d0024_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 25583
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5d0024_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 11557
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5d0024_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 6278
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:5c0216a0708873058a68dd10cb79ccb2c43f1eba43d27da4b0d460bb69be7f5b
